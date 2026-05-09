@@ -1,0 +1,16 @@
+---   Ezek voltak a feltételek és feladatok   ---
+
+Az alabbi tablazatban kuldom a beadando feleves feladatot, amelyet eloben meg kell vedeni.
+A 2. oszlop mutatja, hogy melyik gyujtemenybol/generikus osztalybol kell egy feladatot elkesziteni,
+amely az adott gyujtemeny min. 6 metodusat/tulajdonsagat hasznalja min. 20 adaton. 
+A 3. oszlop pedig azt mutatja, hogy az elobbi melle meg mivel egeszuljon ki az elkeszitendo pelda, amely ne hasonlitson az orai anyagra.
+Továbbá a 2 feladat kapcsolodjon egymashoz, egymast egeszitse ki.
+For ciklust csak vegso esetben hasznaljunk, helyette legyen a foreach-es szerkezet.
+Tovabba a gyujtemeny/gen.osztaly peldanya egy kulonallo osztaly adattagja legyen,
+es a futtathato osztalyban ezt a kulonallo osztalyt peldanyositsuk.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Gyűjtemény/generikus : ReadOnlyCollection
+Elméleti rész : Icloneable Interface
