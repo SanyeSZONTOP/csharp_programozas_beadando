@@ -1,6 +1,0 @@
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\obj\Debug\Beadandó_SnusszWebShop.csproj.AssemblyReference.cache
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\obj\Debug\Beadandó_SnusszWebShop.csproj.CoreCompileInputs.cache
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\bin\Debug\Beadandó_SnusszWebShop.exe
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\bin\Debug\Beadandó_SnusszWebShop.pdb
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\obj\Debug\Beadandó_SnusszWebShop.exe
-C:\Users\User\RiderProjects\Beadandó_SnusszWebShop\Beadandó_SnusszWebShop\obj\Debug\Beadandó_SnusszWebShop.pdb
